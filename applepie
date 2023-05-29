@@ -27,7 +27,6 @@
     const sendButton = document.getElementById('send');
 
     function sendMessage() {
-      // Get the input value
       const message = input.value;
 
       const line = document.createElement('div');
